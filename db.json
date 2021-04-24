@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Schrink Appointment",
+      "day": "Aug 5th at 5:15am",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "text": "Basketball training",
+      "day": "Dec 12th at 11:45am",
+      "reminder": true
+    },
+    {
+      "text": "Walk a man",
+      "day": "everyday",
+      "reminder": true,
+      "id": "mMfJPVy"
+    },
+    {
+      "text": "Feed the Gremlins",
+      "day": "Everyday after 00:00",
+      "reminder": true,
+      "id": "CaB7gk_"
+    }
+  ]
+}
